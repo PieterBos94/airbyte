@@ -121,6 +121,7 @@ If the 50,000 limit is too stringent, contact Marketo support for a quota increa
 
 | Version  | Date       | Pull Request                                             | Subject                                                                                          |
 |:---------|:-----------|:---------------------------------------------------------|:-------------------------------------------------------------------------------------------------|
+| 1.4.41 | 2026-03-17 | [69031](https://github.com/airbytehq/airbyte/pull/69031) | Update dependencies |
 | 1.4.40 | 2026-02-12 | [TBD](https://github.com/airbytehq/airbyte/pull/TBD) | Fix KeyError and TypeError when Marketo API responses lack 'result' key in export status and create endpoints |
 | 1.4.39 | 2026-01-26 | [71849](https://github.com/airbytehq/airbyte/pull/71849) | Add error handling for type conversion in format_value |
 | 1.4.38 | 2025-10-21 | [68475](https://github.com/airbytehq/airbyte/pull/68475) | Update dependencies |
